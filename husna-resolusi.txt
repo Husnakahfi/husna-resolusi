@@ -31,3 +31,5 @@ JAVASCRIPT
 ‌4. Asynchronous Javascript
 ‌5. Fetch API
 Rekomendasi belajar : W3School
+
+learn about metaverse
