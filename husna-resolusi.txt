@@ -1,0 +1,33 @@
+Learn about fe
+
+Version Control System
+1. GIT
+2. GITHUB
+3. GITLAB
+Rekomendasi belajar : https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
+
+HTML :
+‌1. Basic HTML
+‌2. Semantic Elements
+‌3. Form Validation
+‌4. SVG & Canvas
+‌5. Information Architecture
+‌6. Accessibility
+Rekomendasi belajar : W3School
+
+CSS
+‌1. Basic CSS
+‌2. CSS Layouting
+‌3. Filter, Transition & Animation
+‌4. Responsive Design
+‌5. Modern CSS
+‌6. CSS Architecture
+Rekomendasi belajar : W3School
+
+JAVASCRIPT
+‌1. Basic Concepts
+‌2. DOM (Document Object Model)
+‌3. ES6 + Modular Javascript
+‌4. Asynchronous Javascript
+‌5. Fetch API
+Rekomendasi belajar : W3School
